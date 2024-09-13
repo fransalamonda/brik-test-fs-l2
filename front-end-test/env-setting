@@ -1,0 +1,4 @@
+VITE_APP_BASE_URL_PORTAL=https://cemindo-apps.com/portal/
+#VITE_APP_BASE_URL_BACKEND=https://cemindo-apps.com/api-pr-notification
+VITE_APP_BASE_URL_BACKEND=http://10.10.10.72:8000/api-pr-notification
+VITE_APP_BASE_URL_REPORT=https://report-id.online
